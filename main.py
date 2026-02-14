@@ -3,9 +3,9 @@ import pandas as pd
 import time
 
 # --- 🔐 CREDENTIALS ---
-API_KEY = "70617b57595c48c0b49f6319d73303bf"
+API_KEY = ""
 TELEGRAM_TOKEN = ""
-CHAT_ID = "5447712499"
+CHAT_ID = ""
 # ----------------------
 
 BASE_URL = "http://api.football-data.org/v4"
