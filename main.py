@@ -4,7 +4,7 @@ import time
 
 # --- 🔐 CREDENTIALS ---
 API_KEY = "70617b57595c48c0b49f6319d73303bf"
-TELEGRAM_TOKEN = "8087802550:AAGx-SjBm1fOF15vmLinbdsW11VbRldynlg"
+TELEGRAM_TOKEN = ""
 CHAT_ID = "5447712499"
 # ----------------------
 
